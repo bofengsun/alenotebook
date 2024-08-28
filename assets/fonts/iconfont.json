@@ -1,0 +1,30 @@
+{
+  "id": "4667445",
+  "name": "temp",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "3648917",
+      "name": "推特",
+      "font_class": "tuite",
+      "unicode": "e694",
+      "unicode_decimal": 59028
+    },
+    {
+      "icon_id": "6173564",
+      "name": "领英",
+      "font_class": "lingying",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "11215393",
+      "name": "facebook",
+      "font_class": "facebook",
+      "unicode": "e715",
+      "unicode_decimal": 59157
+    }
+  ]
+}
